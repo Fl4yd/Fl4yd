@@ -51,7 +51,7 @@ Welcome to my GitHub! I'm a Master's student in Data-Centric Engineering at LUT 
 
 ## My GitHub Stats 📊
 
-![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fl4yd&show_icons=true&theme=transparent)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fl4yd&layout=normal)
 
 ---
 
