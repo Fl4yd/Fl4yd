@@ -2,11 +2,6 @@
 
 Welcome to my GitHub! I'm a Master's student in Data-Centric Engineering at LUT University, specializing in Applied Mathematics with a minor in Digitalization and Business Intelligence. My passion lies in uncovering insights from data and developing impactful machine learning models.
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
 🌍 Visit my portfolio: [www.jere-arokivi-analytics.com](https://jere-arokivi-analytics.com)  
 💼 Connect on LinkedIn: [linkedin.com/in/jere-arokivi/](https://www.linkedin.com/in/jere-arokivi/)  
 
