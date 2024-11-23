@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a Master's student in Data-Centric Engineering at LUT 
 
 ## Skills and Expertise 🛠️
 
-- **Programming Languages**: Python, MATLAB, R, Java, C, SQL, Shell Scripting  
+- **Programming Languages**: Python, MATLAB, R, Java, C, SQL,Javascript, Shell Scripting  
 - **Data Engineering**: Apache Hadoop, Spark, Kafka, Airflow, ETL pipelines  
 - **Data Analytics**: Statistical analysis, Optimization, Time series analysis  
 - **Database Management**: MySQL, MongoDB, PostgreSQL, Cassandra  
