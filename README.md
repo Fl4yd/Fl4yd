@@ -26,6 +26,9 @@ Welcome to my GitHub! I'm a Master's student in Data-Centric Engineering at LUT 
 - **[Stock Forecasting Model](https://github.com/Fl4yd/AMZN-Stock-Forecast)**  
   Developing a multivariate time series forecasting model to predict stock prices (Experimental, for educational purposes).
 
+- **[Probabilistic Gillespie simulations](https://github.com/Fl4yd/Probabilistic-Gillespie-simulations)**  
+  This project simulates a two-step chemical reaction system using both deterministic ODE modeling and stochastic Gillespie simulations.
+
 - **[NASA Turbofan Engine RUL Prediction](https://github.com/ikceurb/ADAML_NASA_TurboFan_A2)**  
   Optimized sensor data for predicting the Remaining Useful Life (RUL) of turbofan engines.
 
