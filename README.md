@@ -1,6 +1,6 @@
 # Hi there, I'm Jere Arokivi 👋
 
-Welcome to my GitHub! I'm a Master's student in Data-Centric Engineering at LUT University, specializing in Applied Mathematics with a minor in Digitalization and Business Intelligence. My passion lies in uncovering insights from data and developing impactful machine learning models.
+Welcome to my GitHub! I am a graduate with a Master’s degree in Data-Centric Engineering from LUT University, specializing in Applied Mathematics with a minor in Digitalization and Business Intelligence. My passion lies in uncovering insights from data and developing impactful models. 
 
 🌍 Visit my portfolio: [www.jere-arokivi-analytics.com](https://jere-arokivi-analytics.com)  
 💼 Connect on LinkedIn: [linkedin.com/in/jere-arokivi/](https://www.linkedin.com/in/jere-arokivi/)  
@@ -9,13 +9,14 @@ Welcome to my GitHub! I'm a Master's student in Data-Centric Engineering at LUT 
 
 ## Skills and Expertise 🛠️
 
-- **Programming Languages**: Python, MATLAB, R, Java, C, SQL,Javascript, Shell Scripting  
-- **Data Engineering**: Apache Hadoop, Spark, Kafka, Airflow, ETL pipelines  
+- **Programming Languages**: Python, MATLAB, R, Java, C, SQL, JavaScript, Shell Scripting, Scala  
+- **Data Engineering**: Apache Hadoop, Spark, Kafka, Airflow, ETL pipelines, Databricks,  
 - **Data Analytics**: Statistical analysis, Optimization, Time series analysis  
-- **Database Management**: MySQL, MongoDB, PostgreSQL, Cassandra  
-- **Cloud Platforms**: Google Cloud Platform (BigQuery), IBM Cloud,  
-- **Visualization Tools**: Tableau, Power BI, Cognos  
+- **Database Management**: MySQL, MongoDB, PostgreSQL, Cassandra, DynamoDB, Databricks (Delta Lake)  
+- **Cloud Platforms**: Google Cloud Platform, IBM Cloud, AWS
+- **Visualization Tools**: Tableau, Power BI, Cognos, Looker Studio  
 - **Operating Systems**: Linux, Windows, MacOS
+- **Expertise**: Data Engineering, Data Science, Web Development, Mathematics, Full Stack Development.
 
 
 
@@ -76,4 +77,4 @@ Welcome to my GitHub! I'm a Master's student in Data-Centric Engineering at LUT 
 
 ## Let's Collaborate 🤝
 
-I'm open to internships, freelance opportunities, and collaborative projects in data science, machine learning, or just for discussion. Feel free to reach out!
+I'm open to various opportunities and collaborative projects in data science, machine learning, or just for discussion. Feel free to reach out!
